@@ -1,6 +1,6 @@
-# 🎮 My_FreeCamS
+# my asm_scripts
 
-Welcome to **My_FreeCamS** – a growing collection of custom **Cheat Engine Auto Assembler (AA)** scripts built to enable **free camera control** in various games. Whether you're capturing cinematic shots, exploring hidden areas, or breaking the limits for fun — these scripts give you full camera freedom.
+**these scripts give you full camera freedom.**
 
 ---
 
