@@ -6,9 +6,9 @@
 
 ## 📌 Features
 
-- 🛸 Full free camera movement (XYZ + rotation)
-- ⛓️ Option to detach camera from player/entity
-- 🎥 Ideal for screenshots, video content, or exploration
+- Full free camera movement (XYZ + rotation)
+- Option to detach camera from player/entity
+- Ideal for screenshots, video content, or exploration
 
 ---
 
@@ -16,8 +16,8 @@
 
 | Script Name            | Description                               |
 |------------------------|-------------------------------------------|
-| `basic_freecam.asm`     | Enables a free-fly camera                |
-| `hook_freecam.asm`     | Snippet showing basic camera hook logic   |
+| `full_freecam.asm`     | whole of of freecam                       |
+| `hook_freecam.asm`     | shows the formula + logic for the current game   |
 
 
 ---
@@ -26,11 +26,9 @@
 
 <img src="https://s6.gifyu.com/images/bMudr.gif" width="600" alt="FreeCam Demo GIF" />
 
-## prev2
+### spyro
 
-(spyro)(https://youtu.be/o4uZifriysE)
-
-
+(https://youtu.be/o4uZifriysE)
 
 ## How It Works
 
