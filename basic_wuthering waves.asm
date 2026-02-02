@@ -1,5 +1,5 @@
 { Game   : Wuthering Waves  
-  Version: 
+  Version: outdated < 3
   Date   : 2025-03-28
   Author : A d m i n i s t r a t o r
 }
@@ -99,3 +99,4 @@ Camera_address:
   db Camera_bytes
 unregistersymbol(Camera_address fCamera YawRadian PitchRadian DeltaX DeltaZ DeltaY SpeedUP)
 dealloc(newmem)
+
