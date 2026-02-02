@@ -1,10 +1,10 @@
-# my asm_scripts
+## welcome
 
-**these scripts give you full camera freedom.**
+**these scripts give you camera controll**
 
 ---
 
-## 📌 Features
+##  Features
 
 - Full free camera movement (XYZ + rotation)
 - Option to detach camera from player/entity
