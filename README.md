@@ -47,11 +47,10 @@ These scripts use Cheat Engine's **Auto Assembler (AA)** to inject custom assemb
 
 ##  Contribute / Request Support
 
-- Need help adjusting a script for your game? [Open an issue](https://github.com/mastermindp/My_FreeCamS/issues)
-
+- Need help adjusting a script for your game? [Open an issue](https://github.com/crashyyyf/My_FreeCamS/issues)
 
 ---
 
 ## 🌟 Like it?
 
-If this repo helped you, feel free to **star** it and share it with others in the Cheat Engine or modding community. Let’s make cameras free again 🚀
+If this repo helped you, feel free to **star** it.
