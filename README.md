@@ -9,8 +9,6 @@ Welcome to **My_FreeCamS** – a growing collection of custom **Cheat Engine Aut
 - 🛸 Full free camera movement (XYZ + rotation)
 - ⛓️ Option to detach camera from player/entity
 - 🎥 Ideal for screenshots, video content, or exploration
-- 🔁 Hotkey support for toggling/freezing features
-- ⚙️ Expandable to support multiple games
 
 ---
 
@@ -34,7 +32,7 @@ Welcome to **My_FreeCamS** – a growing collection of custom **Cheat Engine Aut
 
 
 
-## 🧠 How It Works
+## How It Works
 
 These scripts use Cheat Engine's **Auto Assembler (AA)** to inject custom assembly into the game's memory. We hook camera update functions and override position/rotation values manually.
 
@@ -42,12 +40,12 @@ These scripts use Cheat Engine's **Auto Assembler (AA)** to inject custom assemb
 
 ## 🛠 Requirements
 
-- ✅ [Cheat Engine](https://www.cheatengine.org/) (latest version recommended)
-- 💡 Some reverse engineering knowledge helps
+-  [Cheat Engine](https://www.cheatengine.org/) (latest version recommended)
+-  Some reverse engineering knowledge helps
 
 ---
 
-## 📬 Contribute / Request Support
+##  Contribute / Request Support
 
 - Need help adjusting a script for your game? [Open an issue](https://github.com/mastermindp/My_FreeCamS/issues)
 
