@@ -1,8 +1,8 @@
 ## Welcome
 
-This repository contains **Cheat Engine Auto Assembler scripts** that provide **free camera control** in supported games.
+this repository contains **ce aa scripts**
 
-These scripts are mainly created to explore **camera logic**, **memory structures**, and **reverse engineering techniques**.
+**these scripts are created to give you camera controll**
 
 ---
 
